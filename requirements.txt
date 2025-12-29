@@ -1,0 +1,31 @@
+# Core
+numpy
+pandas
+pyyaml
+tqdm
+soundfile
+
+# STT - Whisper
+openai-whisper
+torch
+torchaudio
+
+# Translation (choose one path)
+transformers
+sentencepiece
+sacremoses
+
+# LLM (Ollama runs separately)
+requests
+
+# TTS (lightweight, local)
+pyttsx3
+
+# Audio processing
+librosa
+scipy
+
+# Experimentation / notebooks
+jupyter
+matplotlib
+seaborn

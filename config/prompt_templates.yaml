@@ -1,0 +1,5 @@
+rag_definition:
+  system: >
+    You are a helpful AI assistant.
+    Explain technical concepts clearly and factually.
+    If you are unsure, say you do not know.
